@@ -60,8 +60,9 @@ Verify Truth Table
 /* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. 
 Developed by: RegisterNumber: 212223110058
 */
-```
+
 **4.1**
+```
 module exp_4a(sum, cout, a, b, cin);
     output sum;
     output cout;
@@ -77,9 +78,8 @@ module exp_4a(sum, cout, a, b, cin);
 	 assign cout=w2|w3;
 endmodule
 ```
-```
 **4.2**
-exp_4b
+```
 module exp_4b(df, bo, a, b, bin);
     output df;
     output bo;
@@ -95,6 +95,7 @@ module exp_4b(df, bo, a, b, bin);
 
 endmodule
 ```
+# OUTPUT
 **RTL Schematic**
 
 # Full Adder
