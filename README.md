@@ -101,7 +101,7 @@ endmodule
 # Full Adder
 ![435601997-3c8e210a-cc11-40f1-ae95-5fb22e493041](https://github.com/user-attachments/assets/27abfa74-14ed-4bc1-9dad-e637b62f6f69)
 
-# # Full Subtractor
+# Full Subtractor
 ![435606091-9e01900a-1e16-4d12-b3ee-fd4a07e5c81c](https://github.com/user-attachments/assets/4d0e3883-d548-45eb-b01b-1f0e3c0b457c)
 
 **Output Timing Waveform**
@@ -109,7 +109,7 @@ endmodule
 # Full Adder
 ![435602192-318827b4-5059-4a4b-8c5b-acc0dcb89c18](https://github.com/user-attachments/assets/0289dc5c-b06b-49ac-a0b3-dbafdd0d7e92)
 
-# # Full Subtractor
+# Full Subtractor
 ![435606165-901b1df3-e77f-43e1-b735-7ddacc6c3bf3](https://github.com/user-attachments/assets/2daa607f-44e0-47f0-a4c1-c076dcbc71b7)
 
 **Result:**
